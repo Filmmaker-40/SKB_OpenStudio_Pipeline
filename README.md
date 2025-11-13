@@ -23,9 +23,7 @@ Every contribution helps us produce authentic, cinematic stories like Borsalino-
 
 A version-controlled, open-source–friendly filmmaking workspace for **SKBproductions, LLC**.
 
-This repo organizes scripts, AI prompts, images, motion tests, audio, marketing, and release assets across your three flagship projects: **Borsalino-Style**, **The 25th Dynasty**, and **Night Time People**.
 
----
 
 ## 📦 Structure
 
