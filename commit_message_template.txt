@@ -1,0 +1,5 @@
+🎞️ PROJECT: [Project Name]
+🧩 CHANGE TYPE: [Visual / Audio / Script / Marketing / Docs]
+🗓️ DATE: [YYYY-MM-DD]
+🗒️ DESCRIPTION: [Describe what changed]
+🎬 STATUS: [Draft / Review / Final]
