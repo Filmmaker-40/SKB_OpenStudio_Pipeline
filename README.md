@@ -1,4 +1,7 @@
-[README.md](https://github.com/user-attachments/files/23492548/README.md)
+[🎬 SKBproductions, LLC is building a new era of AI-Powered Black Cinema — reimagining history, art, and storytelling through technology.
+Every contribution helps us produce authentic, cinematic stories like Borsalino-Style and The 25th Dynasty.
+💛 Support the vision today and help independent filmmakers keep creative freedom alive.
+🔗 Click below to contribute or learn more.](https://github.com/user-attachments/files/23492548/README.md)
 # SKB Open Studio Pipeline
 
 A version-controlled, open-source–friendly filmmaking workspace for **SKBproductions, LLC**.
