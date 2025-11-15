@@ -1,4 +1,4 @@
-# Prompt Template
+# 1,54 Template
 
 Use this to document your AI generation settings.
 
