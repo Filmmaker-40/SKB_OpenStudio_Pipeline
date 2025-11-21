@@ -1,8 +1,6 @@
 
-](https://github.com/Filmmaker-40/SKB_OpenStudio_Pipeline/blob/main/ChatGPT%20Image%20Nov%2012%2C%202025%20at%2001_52_17%20AM.png)
 
 SKB Open Studio Pipeline
-
 
 🎬 SKBproductions, LLC is building a new era of AI-Powered Black Cinema — reimagining history, culture, and storytelling through modern AI tools.
 
