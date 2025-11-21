@@ -1,5 +1,10 @@
-
-
+SKB Open Studio Pipeline
+🎬 SKBproductions, LLC is building a new era of AI-Powered Black Cinema — reimagining history, culture, and storytelling through modern AI tools.
+This repo contains the full creative pipeline for three major series:
+Borsalino-Style — 1940s noir, Chicago crime world
+The 25th Dynasty — Ancient Nubia, King Kushta, Prince Piye
+Night Time People — Urban crime, nightclub underworld
+Use this repository as a structured, open-source–friendly workspace for organizing scripts, prompts, storyboards, renders, audio, thumbnails, and marketing material.
 
 
 ## 📦 Structure
