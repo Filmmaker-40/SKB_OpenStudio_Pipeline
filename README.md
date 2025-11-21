@@ -1,4 +1,4 @@
-/mnt/data/Man-facing-out-two-cars.webp
+
 
 SKB Open Studio Pipeline
 
